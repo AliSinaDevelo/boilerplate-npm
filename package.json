@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ali Sina Karimi",
+	"description": "A project that does nothing but pass the tests",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
