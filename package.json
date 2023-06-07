@@ -1,6 +1,6 @@
 {
-	"author": "Ali Sina Karimi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ali Sina Karimi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
